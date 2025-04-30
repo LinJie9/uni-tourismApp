@@ -1,0 +1,31 @@
+{
+  "hash": "c3d650a3",
+  "configHash": "535e3415",
+  "lockfileHash": "810f61b4",
+  "browserHash": "90dc1224",
+  "optimized": {
+    "uview-plus": {
+      "src": "../../../../../node_modules/uview-plus/index.js",
+      "file": "uview-plus.js",
+      "fileHash": "282f556a",
+      "needsInterop": false
+    },
+    "dayjs/esm/index": {
+      "src": "../../../../../node_modules/dayjs/esm/index.js",
+      "file": "dayjs_esm_index.js",
+      "fileHash": "6fc711f2",
+      "needsInterop": false
+    },
+    "mockjs": {
+      "src": "../../../../../node_modules/mockjs/dist/mock.js",
+      "file": "mockjs.js",
+      "fileHash": "2b034f74",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-Y2F7D3TJ": {
+      "file": "chunk-Y2F7D3TJ.js"
+    }
+  }
+}
