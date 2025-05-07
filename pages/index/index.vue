@@ -131,6 +131,12 @@
 </script>
 
 <style>
+	page {
+		background-color: rgb(240, 240, 240);
+	}
+</style>
+
+<style lang="scss" scoped>
 	.content{
 		padding: 20rpx 20rpx;
 	}
